@@ -6,6 +6,8 @@ I tried to sort it by priority; what you should be collecting first.
 
 Since it is an old thing, I think this list may miss some things from the article; I'll add that in the following days.
 
+---
+
 ### CHAPTER 1
 >###### Documents
 + [ ] Mining Company Letter to Cornwall — during "_Who the Hell is Leviticus Cornwall?_"
